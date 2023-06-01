@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Pawar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fullstack Development
+- 🌱 I’m currently learning Java and Fullstack Development
 - 📫 reach me at tushar2302.pawar@gmail.com
 
 <!---
