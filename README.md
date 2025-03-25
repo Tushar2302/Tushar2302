@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tushar Pawar
-- 👀 A Passionate Software Engineer.
--     experience in Java, Javascript, Linux, Node JS, and SQL.
-- 🌱 I’m currently learning JavaScript,react JS, node JS,Excel and MongoDB.
-- 📫 reach me at tusharp02@gmail.com
+- 💻 Passionate Software Engineer & Full-Stack Developer
+- 🚀 Experience: Java, JavaScript, Node.js, SQL, and Linux
+- 📚 Currently Learning: React.js, MongoDB, and Excel
+- 📩 Reach me at: tusharp02@gmail.com
 
 <!---
 Tushar2302/Tushar2302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
