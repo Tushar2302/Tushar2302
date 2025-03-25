@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tushar Pawar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, JavaScript and Fullstack Development
+- 👀 A Passionate Software Engineer.
+-     experience in Java, Javascript, Linux, Node JS, and SQL.
+- 🌱 I’m currently learning JavaScript,react JS, node JS,Excel and MongoDB.
 - 📫 reach me at tusharp02@gmail.com
 
 <!---
